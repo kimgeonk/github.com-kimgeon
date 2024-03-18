@@ -1,1 +1,2 @@
-print("puts student grade")
+print("puts student grade\n")
+print("where is all pass?")
