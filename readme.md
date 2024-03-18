@@ -1,2 +1,1 @@
-print("test1")
-print("sucess!")
+print("puts student grade")
